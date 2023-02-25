@@ -1,0 +1,18 @@
+{
+  "name": "audio-player",
+  "version": "1.0.0",
+  "description": "Мой проект аудио плеер",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladPalaev/audio-player.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VladPalaev/audio-player/issues"
+  },
+  "homepage": "https://github.com/VladPalaev/audio-player#readme"
+}
